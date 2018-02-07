@@ -29,8 +29,8 @@ function love.load()
   background2 = love.graphics.newImage("/PARALLAX/layer_02_1920 x 1080.png")
 
   --bg
-  background1_1 = love.graphics.newImage("/PARALLAX/layer_05_640 x 480.png")
-  background2_1 = love.graphics.newImage("/PARALLAX/layer_05_640 x 480.png")
+  background1_1 = love.graphics.newImage("/PARALLAX/layer_05_1920 x 1080.png")
+  background2_1 = love.graphics.newImage("/PARALLAX/layer_05_1920 x 1080.png")
 
   planodefundo ={
 	 x=0,
